@@ -2,7 +2,10 @@ package alura.paulo.screenmatch.modelo;
 
 import alura.paulo.screenmatch.calculos.ConsomeTempo;
 import alura.paulo.screenmatch.excecao.ErroDeConversaoDeAnoException;
-import com.google.gson.annotations.SerializedName;
+
+/*
+ * Classe que representa um Titulo. Classe mãe.
+ * */
 
 public class Titulo implements ConsomeTempo, Comparable<Titulo> {
     private String nome;

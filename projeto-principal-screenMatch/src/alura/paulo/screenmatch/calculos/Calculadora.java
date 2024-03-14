@@ -6,6 +6,10 @@ import alura.paulo.screenmatch.modelo.Titulo;
 
 import java.util.concurrent.ConcurrentSkipListSet;
 
+/*
+* Classe responsável por realizar cálculos de tempo em relação aos títulos
+* */
+
 public class Calculadora {
     private int tempoTotal;
 

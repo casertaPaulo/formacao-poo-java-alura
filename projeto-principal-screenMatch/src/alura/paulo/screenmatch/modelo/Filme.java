@@ -2,6 +2,10 @@ package alura.paulo.screenmatch.modelo;
 
 import alura.paulo.screenmatch.calculos.Classificavel;
 
+/*
+ * Classe que representa o modelo de um Filme
+ * */
+
 public class Filme extends Titulo implements Classificavel {
     private String diretor;
 

@@ -3,6 +3,10 @@ package alura.paulo.screenmatch.modelo;
 import alura.paulo.screenmatch.calculos.Classificavel;
 import alura.paulo.screenmatch.calculos.ConsomeTempo;
 
+/*
+ * Classe que representa o modelo de um episódio.
+ * */
+
 public class Episodio implements Classificavel, ConsomeTempo {
     private int numero;
     private String nomeEp;

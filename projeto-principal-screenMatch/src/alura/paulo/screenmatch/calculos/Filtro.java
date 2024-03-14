@@ -1,5 +1,9 @@
 package alura.paulo.screenmatch.calculos;
 
+/*
+ * Classe responsável por filtrar um item classíficavel.
+ * */
+
 public class Filtro {
     // Utilizando da abstração para tornar o código mais coeso e elegante
     public void filtrar(Classificavel classificavel) {

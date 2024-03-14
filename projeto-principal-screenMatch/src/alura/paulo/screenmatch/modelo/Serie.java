@@ -2,6 +2,10 @@ package alura.paulo.screenmatch.modelo;
 
 import alura.paulo.screenmatch.calculos.Classificavel;
 
+/*
+ * Classe que representa o modelo de uma Série.
+ * */
+
 public class Serie extends Titulo implements Classificavel {
     private int temps;
     private int epsPorTemp;

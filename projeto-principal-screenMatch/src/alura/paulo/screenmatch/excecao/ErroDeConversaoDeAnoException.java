@@ -1,5 +1,9 @@
 package alura.paulo.screenmatch.excecao;
 
+/*
+ * Criando uma exceção personalizada
+ * */
+
 public class ErroDeConversaoDeAnoException extends RuntimeException {
     private String mensagem;
     public ErroDeConversaoDeAnoException(String mensagem) {
