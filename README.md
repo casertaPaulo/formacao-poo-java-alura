@@ -35,3 +35,9 @@ Eaí, tranquilo?! Eu sou o Paulo e neste repositório estão todos os projetos d
  - Classe Record e a sua facilidade em representar um objeto Json
  - Imutabilidade
  - Importância e uso de exceções, criando a minha própria exceção
+ - Utilizando Gson para serialização e desserialização
+ 
+ ## Gravando arquivos
+ 
+
+ - Utilizando a classe FileWriter para gravar dados em arquivos
