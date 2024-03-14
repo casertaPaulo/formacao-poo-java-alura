@@ -1,6 +1,7 @@
 # Curso de Formação
 
-Eaí, tranquilo?! Eu sou o Paulo e neste repositório estão todos os projetos de aula e desafios do curso de formação em Programação em Orientação a Objetos em Java, ministrado pelo Alura.
+Eaí, tranquilo?! 
+Eu sou o Paulo e neste repositório estão todos os projetos de aula e desafios do curso de formação em Programação em Orientação a Objetos em Java, ministrado pelo Alura.
 
 
 # Tudo que vi nessa formação
